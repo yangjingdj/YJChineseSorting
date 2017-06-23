@@ -1,7 +1,7 @@
 #YJChineseSorting
 
 ## iOS通讯录联系人列表(中文排序)
-![First Image](/Users/God/Desktop/YJChineseSorting/sample.gif "First Image")
+![First Image](https://github.com/yangjingdj/YJChineseSorting/blob/master/sample.gif)
 
 ### 一、导入头文件#import <ChineseString.h>
 ### 二、数据源
